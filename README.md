@@ -1,4 +1,4 @@
-<font size ="8"> <div align="center">**Data Science and Machine Learning Portfolio**</div></font>
+<font size ="8"> <div align="center"># **Data Science and Machine Learning Portfolio**</div></font>
 <font size ="5"> <div align="center">**Jon Nyner Gavan**</div></font>
 
 
